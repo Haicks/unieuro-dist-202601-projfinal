@@ -32,8 +32,8 @@ https://github.com/SamuelHLC/projeto_validacao_concorrente_dados
 
 * G6 -  Reconhecimento paralelo de vagas de carro disponíveis em imagens de câmeras de estacionamentos 
 Tiago  
-João Victor
-https://github.com/tiagocosme1/projetoprogramacaoCD
+João Victor  
+https://github.com/tiagocosme1/projetoprogramacaoCD  
 
 * G7 - Verificador paralelo dos pagamentos do Bolsa Família (maior valor, menor valor, valor medio, soma de todos os valores)
 Amanda  
