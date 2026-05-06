@@ -35,12 +35,17 @@ Tiago
 João Victor
 https://github.com/tiagocosme1/projetoprogramacaoCD
 
-* G5 - Verificador paralelo dos pagamentos do Bolsa Família (maior valor, menor valor, valor medio, soma de todos os valores)
+* G7 - Verificador paralelo dos pagamentos do Bolsa Família (maior valor, menor valor, valor medio, soma de todos os valores)
 Amanda  
 Arthur  
 https://github.com/amandagram/Projeto_CD
 
-* G6 - Analisador de Logs de DDOS (contar acessos por IP de forma paralela)
+* G8 - Analisador de Logs de DDOS (contar acessos por IP de forma paralela)
 Mateus  
 Gabriel Yan  
 https://github.com/Gabriel-Yan1/Projeto-Guardian-Logs  
+
+* G9 - Simulador paralelo de expansão de incêndio  
+Letícia  
+Ellen  
+https://github.com/letici4barr0s/projeto_paralelismo_EL
