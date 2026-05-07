@@ -25,7 +25,7 @@ Lucas
 Jõao Gabriel  
 https://github.com/dev-lucasvsc/Distribuido-Doc_fiscall
 
-* G5 -  
+* G5 -  nyc-yellow-taxi-trip-data paralelo (soma de distância realizada, média das corridas, maior corrida e a menor corrida)
 Marcelo  
 Samuel  
 https://github.com/SamuelHLC/projeto_validacao_concorrente_dados  
