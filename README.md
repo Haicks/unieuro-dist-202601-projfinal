@@ -49,3 +49,37 @@ https://github.com/Gabriel-Yan1/Projeto-Guardian-Logs
 Letícia  
 Ellen  
 https://github.com/letici4barr0s/projeto_paralelismo_EL
+
+* G10 -   
+Breno   
+Yuri  
+
+* G11 -   Classificador de conteúdo de imagem paralelo
+Luiz Miguel  
+Waldo  
+https://github.com/LuizCMaia/projeto-computacao-paralela  
+
+* G12 -
+Matheus Nery  
+Caio  
+https://github.com/Caio-Vilanova/projeto-migracao-paralelizar  
+
+* G13 -  
+Alex  
+Gabriel  
+
+* G14 - Detecção de palavras racistas em audios de estádios paralelo 
+Matheus  
+Luís Gustavo  
+https://github.com/Haicks/Trabalho-quarta-feira-
+
+* G15 - 
+Guilherme
+Miguel  
+https://github.com/yNZCG/TrabalhoRafaelParalelismo/new/main  
+
+* G16 -   
+Gustavo  
+Felipe  
+https://github.com/gustavonbarboza/trabalho-pcd-2bimestre-2026/tree/main
+
