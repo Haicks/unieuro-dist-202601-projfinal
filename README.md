@@ -5,12 +5,12 @@ Esse projeto representará a avaliação B2 da disciplina de PC.
 
 ## Grupos Noturno
 
-* G1 -   
+* G1 -  Localização paralela de pessoas desaparecidas em vídeos
 Nathan  
 Pauline  
 https://github.com/paulinefbraz/projeto2026  
 
-* G2 -  
+* G2 -  Contador de frequência de palavras do json da wiki  
 Eliane  
 Rayna  
 https://github.com/ElianedeFreitas/Projeto-paralelizacao  
