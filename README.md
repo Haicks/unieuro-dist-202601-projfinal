@@ -2,6 +2,20 @@
 
 Esse projeto representará a avaliação B2 da disciplina de PC.
 
+## Grupos Matutino
+* G1 - Amazon Fine Food Reviews - Avaliar evolução média em todo o período  
+Samuel Leal  
+Marcelo  
+https://github.com/Samuel-Leal1/evolucao-avaliacoes-amazon  
+
+* G2 -
+Nicolas  
+Kelvin  
+
+* G3
+
+
+
 
 ## Grupos Noturno
 
