@@ -11,9 +11,36 @@ https://github.com/Samuel-Leal1/evolucao-avaliacoes-amazon
 * G2 -
 Nicolas  
 Kelvin  
+https://github.com/Nicolasmateus558/trabalho-final-programa-ao-web  
 
-* G3
+* G3 - Detecção de placas de veiculos em imagens de câmera para identificação de veículos roubados
+Samuel
+Caio
+https://github.com/samucabsb/uni-project-stolen-vehicles.git
 
+* G4 - Simulador paralelo de risco de inundações
+Carlos Eduardo
+Luis Henrique  
+https://github.com/caduslv/Trabalho_Prog_Concorrente_Rafael  
+
+* G5 - 
+Vinícius
+Ana Júlia
+
+* G6 -
+Max
+Filipe  
+https://github.com/Filipe08-000/trabalho-prog-concorrente  
+
+* G7
+Willian  
+Lucas Sousa  
+https://github.com/LucasSousaa12/Projeto-de-Programa-o-Paralela  
+
+* G8
+Stevan  
+Maria Eduarda  
+https://github.com/stevangutemberg-hub/paralelismo_final.git  
 
 
 
