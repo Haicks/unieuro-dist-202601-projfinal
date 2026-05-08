@@ -40,7 +40,27 @@ https://github.com/LucasSousaa12/Projeto-de-Programa-o-Paralela
 * G8
 Stevan  
 Maria Eduarda  
-https://github.com/stevangutemberg-hub/paralelismo_final.git  
+https://github.com/stevangutemberg-hub/paralelismo_final.git
+
+* G9
+Yan  
+https://github.com/Zyanxz/programa-o_concorrente_sobre_saude_mental
+
+* G10
+Arthur  
+Victor Hugo  
+https://github.com/victorlimapereir4-cell/YEEZY
+(max 7.0)
+
+* G11
+Naylane  
+Daniel  
+https://github.com/Naylanne/pgcd_trabalhofinal  
+
+* G12
+Giovana  
+Bruno
+https://giovana-santana-1405.github.io/proj-prog-concorrente/  
 
 
 
