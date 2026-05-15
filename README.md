@@ -38,10 +38,10 @@ Willian
 Lucas Sousa  
 https://github.com/LucasSousaa12/Projeto-de-Programa-o-Paralela  
 
-* G8
+* G8 - Estatística em viagens de metrô de NYC paralelo  
 Stevan  
 Maria Eduarda  
-https://github.com/stevangutemberg-hub/paralelismo_final.git
+https://github.com/stevangutemberg-hub/paralelismo_final.git  
 
 * G9
 Yan  
