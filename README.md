@@ -43,8 +43,9 @@ Stevan
 Maria Eduarda  
 https://github.com/stevangutemberg-hub/paralelismo_final.git  
 
-* G9
-Yan  
+* G9  - Estatística em avaliação de jogos paralelo  
+Yan
+Lucar Barbosa  
 https://github.com/Zyanxz/programa-o_concorrente_sobre_saude_mental
 
 * G10
