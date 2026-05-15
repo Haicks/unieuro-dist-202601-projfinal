@@ -52,7 +52,7 @@ Victor Hugo
 https://github.com/victorlimapereir4-cell/YEEZY
 (max 7.0)
 
-* G11
+* G11 - Indentificador de fotos de rosto fake  paralelo
 Naylane  
 Daniel  
 https://github.com/Naylanne/pgcd_trabalhofinal  
