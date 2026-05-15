@@ -13,13 +13,13 @@ Nicolas
 Kelvin  
 https://github.com/Nicolasmateus558/trabalho-final-programa-ao-web  
 
-* G3 - Detecção de placas de veiculos em imagens de câmera para identificação de veículos roubados
-Samuel
-Caio
-https://github.com/samucabsb/uni-project-stolen-vehicles.git
+* G3 - Detecção de placas de veiculos em imagens de câmera para identificação de veículos roubados  
+Samuel  
+Caio  
+https://github.com/samucabsb/uni-project-stolen-vehicles.git  
 
-* G4 - Simulador paralelo de risco de inundações
-Carlos Eduardo
+* G4 - Simulador paralelo de risco de inundações  
+Carlos Eduardo  
 Luis Henrique  
 https://github.com/caduslv/Trabalho_Prog_Concorrente_Rafael  
 
@@ -53,7 +53,7 @@ Victor Hugo
 https://github.com/victorlimapereir4-cell/YEEZY
 (max 7.0)
 
-* G11 - Indentificador de fotos de rosto fake  paralelo
+* G11 - Indentificador de fotos de rosto fake  paralelo  
 Naylane  
 Daniel  
 https://github.com/Naylanne/pgcd_trabalhofinal  
