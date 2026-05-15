@@ -58,9 +58,9 @@ Naylane
 Daniel  
 https://github.com/Naylanne/pgcd_trabalhofinal  
 
-* G12
+* G12 - Estatísticas de acidentes de carro em paralelo  
 Giovana  
-Bruno
+Bruno  
 https://giovana-santana-1405.github.io/proj-prog-concorrente/  
 
 
