@@ -28,8 +28,8 @@ Vinícius
 Ana Júlia  
 https://github.com/Caetanodassis/projeto_concorrente_vinicius_anajulia
 
-* G6 -
-Max
+* G6 - Estatística em base de avaliação de filmes por categoria paralelo  
+Max  
 Filipe  
 https://github.com/Filipe08-000/trabalho-prog-concorrente  
 
