@@ -61,7 +61,7 @@ https://github.com/Naylanne/pgcd_trabalhofinal
 * G12 - Estatísticas de acidentes de carro em paralelo  
 Giovana  
 Bruno  
-https://giovana-santana-1405.github.io/proj-prog-concorrente/  
+https://github.com/Giovana-Santana-1405/proj-prog-concorrente  
 
 
 
