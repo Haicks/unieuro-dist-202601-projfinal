@@ -32,7 +32,7 @@ Max
 Filipe  
 https://github.com/Filipe08-000/trabalho-prog-concorrente  
 
-* G7
+* G7 - Contator de frutas em fotos reais paralelo  
 Willian  
 Lucas Sousa  
 https://github.com/LucasSousaa12/Projeto-de-Programa-o-Paralela  
