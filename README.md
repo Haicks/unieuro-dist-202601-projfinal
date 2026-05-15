@@ -8,7 +8,7 @@ Samuel Leal
 Marcelo  
 https://github.com/Samuel-Leal1/evolucao-avaliacoes-amazon  
 
-* G2 -
+* G2 - Detecção de fraude bancária  
 Nicolas  
 Kelvin  
 https://github.com/Nicolasmateus558/trabalho-final-programa-ao-web  
