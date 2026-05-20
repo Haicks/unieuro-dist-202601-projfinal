@@ -141,7 +141,7 @@ Guilherme
 Miguel  
 https://github.com/yNZCG/TrabalhoRafaelParalelismo/new/main  
 
-* G16 -   
+* G16 -    Estatística de produção de carne em paralelo  
 Gustavo  
 Felipe  
 https://github.com/gustavonbarboza/trabalho-pcd-2bimestre-2026/tree/main
