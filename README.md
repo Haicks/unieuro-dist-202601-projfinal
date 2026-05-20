@@ -136,8 +136,8 @@ Matheus
 Luís Gustavo  
 https://github.com/Haicks/Trabalho-quarta-feira-
 
-* G15 - 
-Guilherme
+* G15 - Encontrar melhor caminho em grafos paralelo  
+Guilherme  
 Miguel  
 https://github.com/yNZCG/TrabalhoRafaelParalelismo/new/main  
 
