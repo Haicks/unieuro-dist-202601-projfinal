@@ -149,3 +149,7 @@ https://github.com/gustavonbarboza/trabalho-pcd-2bimestre-2026/tree/main
 * G17 - Busca de fraude bancária paralela
 Icaro  
 Pedro Henrique  
+
+* G18 - Classificador de imagens  
+Alex  
+Gabriel Nascimento  
