@@ -48,7 +48,7 @@ Yan
 Lucar Barbosa  
 https://github.com/Zyanxz/programa-o_concorrente_sobre_saude_mental
 
-* G10
+* G10 - Estatística na base de dados de crimes
 Arthur  
 Victor Hugo  
 https://github.com/victorlimapereir4-cell/YEEZY
