@@ -144,7 +144,7 @@ https://github.com/yNZCG/TrabalhoRafaelParalelismo/new/main
 * G16 -    Estatística de produção de carne em paralelo  
 Gustavo  
 Felipe  
-https://github.com/gustavonbarboza/trabalho-pcd-2bimestre-2026/tree/main
+https://github.com/gustavonbarboza/trabalho_materia_pdc_2bimestre  
 
 * G17 - Busca de fraude bancária paralela
 Icaro  
