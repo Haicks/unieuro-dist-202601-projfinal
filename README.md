@@ -127,9 +127,10 @@ Matheus Nery
 Caio  
 https://github.com/Caio-Vilanova/projeto-migracao-paralelizar  
 
-* G13 -  
+* G13 Detecção de Máscara de Covid  
 Alex  
-Gabriel  
+Gabriel Nascimento  
+https://github.com/Dealmsan/mask-detector-covid/
 
 * G14 - Detecção de palavras racistas em audios de estádios paralelo 
 Matheus  
@@ -150,8 +151,3 @@ https://github.com/gustavonbarboza/trabalho_materia_pdc_2bimestre
 Icaro  
 Pedro Henrique  
 https://github.com/icarocardo/bank-fraud-concurrent-processing
-
-* G18 - Detecção de Máscara de Covid  
-Alex  
-Gabriel Nascimento  
-https://github.com/Dealmsan/mask-detector-covid/
