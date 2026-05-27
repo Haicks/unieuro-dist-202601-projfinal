@@ -151,6 +151,7 @@ Icaro
 Pedro Henrique  
 https://github.com/icarocardo/bank-fraud-concurrent-processing
 
-* G18 - Classificador de imagens  
+* G18 - Detecção de Máscara de Covid  
 Alex  
 Gabriel Nascimento  
+https://github.com/Dealmsan/mask-detector-covid/
