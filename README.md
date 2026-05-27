@@ -113,7 +113,7 @@ Letícia
 Ellen  
 https://github.com/letici4barr0s/projeto_paralelismo_EL
 
-* G10 -   
+* G10 -  Processamento de transações do PIX   
 Breno   
 Yuri  
 
