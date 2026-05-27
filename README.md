@@ -146,9 +146,10 @@ Gustavo
 Felipe  
 https://github.com/gustavonbarboza/trabalho_materia_pdc_2bimestre  
 
-* G17 - Busca de fraude bancária paralela
+* G17 - Busca de fraude bancária paralela  
 Icaro  
 Pedro Henrique  
+https://github.com/icarocardo/bank-fraud-concurrent-processing
 
 * G18 - Classificador de imagens  
 Alex  
