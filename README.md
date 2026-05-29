@@ -36,7 +36,7 @@ https://github.com/Filipe08-000/trabalho-prog-concorrente
 * G7 - Contator de frutas em fotos reais paralelo  
 Willian  
 Lucas Sousa  
-https://github.com/LucasSousaa12/Projeto-de-Programa-o-Paralela  
+https://github.com/LucasSousaa12/Contador-de-frutas-/tree/main
 
 * G8 - Estatística em viagens de metrô de NYC paralelo  
 Stevan  
