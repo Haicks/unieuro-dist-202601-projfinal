@@ -151,3 +151,8 @@ https://github.com/gustavonbarboza/trabalho_materia_pdc_2bimestre
 Icaro  
 Pedro Henrique  
 https://github.com/icarocardo/bank-fraud-concurrent-processing
+
+* G18 - Detector de palavrões 
+Matheus Dantas
+Luis Gustavo
+https://github.com/Haicks/detector-de-palavr-es-
